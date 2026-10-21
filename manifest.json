@@ -1,0 +1,15 @@
+{
+  "name": "家书·回声 — 十二封红色家书数字展馆",
+  "short_name": "家书·回声",
+  "description": "1921—1949 年间十二封革命家书的数字展馆：语音朗读、逐句高亮、时代注解。CMIT「红色之旅 追梦铸魂」专项赛道参赛作品。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#221c18",
+  "theme_color": "#a62b25",
+  "icons": [
+    { "src": "favicon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
